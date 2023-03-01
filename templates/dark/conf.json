@@ -1,12 +1,13 @@
 {
-  "id": "dark",
+  "id": "dark_enfus",
   "signature": "Ar cieņu,",
   "name": "Maksims Ļebedinecs",
+  "position": "Valdes Loceklis",
   "contactMain": "t. <a href='tel:0037127894130'><span>(+371) 27894130</span></a> mailto: ",
   "contactMail": "info@enfus.lv",
   "companyName": "ENFUS",
   "slogan": "Clean road to success.",
-  "bankDetails": "ENFUS SIA<br />Juridiskā adrese: Stiebru iela 1 – 50, Rīga, LV-1015<br />Reģ.Numurs:44103125090<br />PVN:LV44103125090<br />Banka: HABALV22<br />Bankas kods: A/S «SWEDBANK»<br />LV63HABA0551047075602",
+  "bankDetails": "ENFUS SIA<br />Juridiskā adrese: Stiebru iela 1 – 50, Rīga, LV-1015<br />Reģ.Numurs: 44103125090<br />PVN: LV44103125090<br />Banka: HABALV22<br />Bankas kods: A/S «SWEDBANK»<br />LV63HABA0551047075602",
   "logoUrl": "/assets/enfus_logo.png",
   "logoAlt": "ENFUS logo",
   "website": "http://enfus.lv"
